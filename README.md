@@ -212,25 +212,83 @@ SCTE & VT, Odisha
 
 # 📜 Training & Certifications
 
-- ⚙️ **Programmable Logic Control (PLC)**
-  - Central Tool Room & Training Centre, Bhubaneswar
-  - Ministry of MSME, Government of India
-  - 2022
+### 💻 Java Full Stack Development
 
-- ☀️ **One-Day Workshop on Solar Technology**
-  - Central Tool Room & Training Centre, Bhubaneswar
-  - Ministry of MSME, Government of India
-  - 2022
+Training covering:
 
-- 📐 **AutoCAD**
-  - 2D & 3D Modelling
+**Java • Spring Boot • REST APIs • MySQL • React.js**
 
-- 🖥️ **MS Office**
-  - Word • Excel • PowerPoint
+---
 
-- ☕ **Java Full Stack Development**
-  - Java • Spring Boot • REST APIs • MySQL • React.js
+### ⚙️ Programmable Logic Control (PLC)
 
+**Central Tool Room & Training Centre, Bhubaneswar**
+
+Ministry of MSME, Government of India
+
+**2022**
+
+---
+
+### ⚡ 132/33 KV Grid Sub-Station Internship
+
+**Odisha Power Transmission Corporation Limited (OPTCL)**
+
+132/33 KV Grid Sub-Station, Rayagada
+
+**Internship Period: 25/08/2022 – 25/09/2022**
+
+Field: **Operation & Maintenance**
+
+---
+
+### 🤖 Sr. Technician — Machine Maintenance & Automation
+
+**MSME Technology Centre, Central Tool Room & Training Centre, Bhubaneswar**
+
+Course: **Sr. Technician Machine Maintenance and Automation**
+
+- Basic Machine Operation
+- Hydraulics & Pneumatics Maintenance
+- Electrical Machine Maintenance
+- Industrial Automation
+- Electrical Circuit Design using CAD Software
+
+**Duration: 600 Hours**
+
+**Result: 85.3% — Grade A+**
+
+---
+
+### 🧩 SolidWorks Training
+
+**Central Tool Room & Training Centre, Bhubaneswar**
+
+Entrepreneur Skill Development Programme sponsored by Ministry of MSME
+
+Training in:
+
+- Part Modeling
+- Sketcher & Constraining
+- Surface Modeling
+- Assembly Design
+- Motion Study
+- Drafting & Detailing
+- Sheet Metal Design
+
+**Course Period: 18/08/2025 – 17/09/2025**
+
+---
+
+### 📐 AutoCAD
+
+**2D & 3D Modelling**
+
+---
+
+### 🖥️ MS Office
+
+**Word • Excel • PowerPoint**
 ---
 
 # 🎯 Currently Learning
