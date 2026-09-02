@@ -6,17 +6,19 @@
 
 **Java | Spring Boot | Microservices | React.js | MySQL | Google Cloud**
 
-<p>
-  <a href="https://github.com/akhilsunamudi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/akhil-sunamudi-b417aa426">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:akhilsunamudi.xx03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/akhilsunamudi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/akhil-sunamudi-b417aa426">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:akhilsunamudi.xx03@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -24,64 +26,65 @@
 
 ## 👨‍💻 About Me
 
-I'm **Akhil Sunamudi**, an aspiring **Java Full Stack Developer** currently
-pursuing **B.Tech in Computer Science & Engineering**.
+Hi! I'm **Akhil Sunamudi**, an aspiring **Java Full Stack Developer**
+currently pursuing my **B.Tech in Computer Science & Engineering**.
 
-I enjoy developing real-world applications using Java, Spring Boot,
-Microservices and React.js.
+I enjoy developing practical web applications and learning modern
+backend, frontend and cloud technologies.
 
-- 🎓 B.Tech CSE — Currently Pursuing
+- 🎓 B.Tech in Computer Science & Engineering — Pursuing
 - ☕ Java & Spring Boot Developer
 - ⚙️ Interested in Microservices Architecture
-- 🌐 React.js for Frontend Development
+- 🌐 React.js Frontend Development
 - 🗄️ MySQL Database
 - 🔐 JWT Authentication
+- 🌍 REST API Development
 - ☁️ Google Cloud & Cloud Run
-- 🚀 Interested in building scalable applications
-- 📚 Always learning new technologies
+- 🚀 Interested in building real-world applications
+- 📚 Always learning and improving my technical skills
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
-`Java 21` • `Spring Boot` • `Spring Cloud` • `REST APIs`
-• `Microservices` • `JWT` • `API Gateway`
+**Java 21 • Core Java • Spring Boot • Spring Cloud • REST APIs •
+Microservices • JWT • API Gateway**
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
-`React.js` • `JavaScript` • `HTML5` • `CSS3` • `Vite`
+**React.js • JavaScript • HTML5 • CSS3 • Vite**
 
 ### 🗄️ Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-`MySQL` • `SQL` • `CRUD Operations`
+**MySQL • SQL • CRUD Operations • Database Management**
 
 ### ☁️ Cloud & Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,postman" />
 </p>
 
-`Google Cloud` • `Cloud Run` • `Docker` • `Git` • `GitHub` • `Postman`
+**Google Cloud • Cloud Run • Docker • Git • GitHub • Postman • Maven**
 
 ---
 
@@ -91,29 +94,33 @@ Microservices and React.js.
 
 ### Full-Stack Microservices Application
 
-A full-stack web application built using **React.js** and **Java Spring Boot**
-with a microservices-based backend architecture.
+**HamaraShops.ai** is a full-stack web application developed using
+**React.js** on the frontend and **Java Spring Boot** on the backend.
 
-**Technologies:**
+The application follows a **microservices-based architecture** with
+REST APIs, authentication, API Gateway and database integration.
 
-`Java 21` `Spring Boot` `Spring Cloud` `React.js` `MySQL`
-`JWT` `Microservices` `API Gateway` `Docker` `Google Cloud Run`
+### 🔧 Technologies
 
-### Key Features
+`Java 21` `Spring Boot` `Spring Cloud` `Microservices`
+`React.js` `MySQL` `JWT` `API Gateway` `Docker` `Google Cloud Run`
 
-- 🔐 User Authentication with JWT
+### ✨ Key Areas
+
+- 🔐 JWT-based Authentication
 - ⚙️ Microservices Architecture
 - 🌐 REST API Development
 - 🚪 API Gateway
 - 🗄️ MySQL Database
 - 🔄 Frontend & Backend Integration
 - 🐳 Docker
+- 📦 Git & GitHub
 - ☁️ Google Cloud Run Deployment
 
-### 🔗 Repository
+### 🔗 Project Repository
 
 <a href="https://github.com/akhilsunamudi/HamaraShops-Ai">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
@@ -122,14 +129,14 @@ with a microservices-based backend architecture.
 
 ### Learning & Development Management System
 
-A web-based learning management application developed using
-**Java Spring Boot, React.js and MySQL**.
+A web-based **Learning & Development Management System** developed
+using Java Spring Boot, React.js and MySQL.
 
-**Technologies:**
+### 🔧 Technologies
 
 `Java` `Spring Boot` `REST APIs` `MySQL` `React.js` `Vite`
 
-### Key Features
+### ✨ Key Features
 
 - 🔐 Authentication
 - 👨‍💼 Role-Based Access
@@ -139,41 +146,67 @@ A web-based learning management application developed using
 - 📊 Progress Tracking
 - ⭐ Feedback Management
 - 🔄 REST API Integration
+- 🗄️ MySQL Database
 
 ---
 
-# 🏗️ Microservices Architecture
+# 🏗️ HamaraShops.ai Architecture
 
 ```text
-                     USER
-                       │
-                       ▼
-                ┌─────────────┐
-                │  React.js   │
-                │  Frontend   │
-                └──────┬──────┘
-                       │
-                    REST API
-                       │
-                       ▼
-                ┌─────────────┐
-                │ API Gateway │
-                └──────┬──────┘
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-          ▼            ▼            ▼
-     ┌─────────┐ ┌───────────┐ ┌──────────┐
-     │  Auth   │ │ Candidate │ │  Resume  │
-     │ Service │ │  Service  │ │  Service │
-     └────┬────┘ └─────┬─────┘ └────┬─────┘
-          │            │             │
-          └────────────┼─────────────┘
-                       │
-                       ▼
-                  ┌─────────┐
-                  │  MySQL  │
-                  └─────────┘
+                         USER
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   React.js UI   │
+                  └────────┬────────┘
+                           │
+                        REST API
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   API Gateway   │
+                  └────────┬────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+             ▼             ▼             ▼
+        ┌─────────┐  ┌───────────┐  ┌──────────┐
+        │  Auth   │  │ Candidate │  │  Resume  │
+        │ Service │  │  Service  │  │  Service │
+        └────┬────┘  └─────┬─────┘  └────┬─────┘
+             │             │             │
+             └─────────────┼─────────────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    MySQL    │
+                    └─────────────┘
+```
+
+---
+
+# 🔐 Authentication Flow
+
+```text
+User
+  │
+  ▼
+Login / Register
+  │
+  ▼
+Auth Service
+  │
+  ▼
+Credentials Verification
+  │
+  ▼
+JWT Token
+  │
+  ▼
+Frontend
+  │
+  ▼
+Protected API Requests
 ```
 
 ---
@@ -188,6 +221,8 @@ Currently Pursuing — **6th Semester**
 
 **Latest SGPA: 7.82**
 
+---
+
 ### 🎓 Diploma — Electrical Engineering
 
 **Utkal Gourav Madhusudan Institute of Technology, Rayagada**
@@ -196,11 +231,15 @@ SCTE & VT, Odisha
 
 **2023 | 64.13%**
 
+---
+
 ### 🎓 Higher Secondary — Science
 
 **CHSE Odisha**
 
 **2020 | 43.66%**
+
+---
 
 ### 🎓 Matriculation
 
@@ -212,7 +251,7 @@ SCTE & VT, Odisha
 
 # 📜 Training & Certifications
 
-### 💻 Java Full Stack Development
+## ☕ Java Full Stack Development
 
 Training covering:
 
@@ -220,7 +259,7 @@ Training covering:
 
 ---
 
-### ⚙️ Programmable Logic Control (PLC)
+## ⚙️ Programmable Logic Control — PLC
 
 **Central Tool Room & Training Centre, Bhubaneswar**
 
@@ -230,7 +269,7 @@ Ministry of MSME, Government of India
 
 ---
 
-### ⚡ 132/33 KV Grid Sub-Station Internship
+## ⚡ 132/33 KV Grid Sub-Station Internship
 
 **Odisha Power Transmission Corporation Limited (OPTCL)**
 
@@ -238,35 +277,43 @@ Ministry of MSME, Government of India
 
 **Internship Period: 25/08/2022 – 25/09/2022**
 
-Field: **Operation & Maintenance**
+Field:
+
+**Operation & Maintenance**
 
 ---
 
-### 🤖 Sr. Technician — Machine Maintenance & Automation
+## 🤖 Sr. Technician — Machine Maintenance & Automation
 
 **MSME Technology Centre, Central Tool Room & Training Centre, Bhubaneswar**
 
-Course: **Sr. Technician Machine Maintenance and Automation**
+Course:
+
+**Sr. Technician Machine Maintenance and Automation**
+
+### Areas Covered
 
 - Basic Machine Operation
-- Hydraulics & Pneumatics Maintenance
-- Electrical Machine Maintenance
-- Industrial Automation
-- Electrical Circuit Design using CAD Software
+- Maintenance of Hydraulics & Pneumatics Components
+- Electrical Machine Maintenance Activities
+- Basics of Industrial Automation
+- Electrical Circuit Diagram using CAD Software
+- Employability Skills
 
 **Duration: 600 Hours**
 
-**Result: 85.3% — Grade A+**
+**Result: 85.3% | Grade: A+**
 
 ---
 
-### 🧩 SolidWorks Training
+## 🧩 SolidWorks Training
 
 **Central Tool Room & Training Centre, Bhubaneswar**
 
-Entrepreneur Skill Development Programme sponsored by Ministry of MSME
+Entrepreneur Skill Development Programme sponsored by
+**Ministry of MSME**
 
-Training in:
+### Training Areas
 
 - Part Modeling
 - Sketcher & Constraining
@@ -280,40 +327,73 @@ Training in:
 
 ---
 
-### 📐 AutoCAD
+## 📐 AutoCAD
 
 **2D & 3D Modelling**
 
 ---
 
-### 🖥️ MS Office
+## 🖥️ MS Office
 
-**Word • Excel • PowerPoint**
+**Microsoft Word • Excel • PowerPoint**
+
 ---
 
 # 🎯 Currently Learning
 
-```text
-Java
-   ↓
-Spring Boot
-   ↓
-REST APIs
-   ↓
-Microservices
-   ↓
-React.js
-   ↓
-MySQL
-   ↓
-Docker
-   ↓
-Google Cloud
-```
+### ☕ Backend
+
+`Java` → `Spring Boot` → `REST APIs` → `Microservices`
+
+### 🌐 Frontend
+
+`React.js` → `JavaScript` → `API Integration`
+
+### ☁️ Cloud
+
+`Docker` → `Google Cloud` → `Cloud Run`
 
 ---
 
-# 📊 GitHub Stats
+# 💼 What I Build
+
+<div align="center">
+
+| 💻 Backend | 🌐 Frontend | ☁️ Cloud |
+|:---:|:---:|:---:|
+| Java & Spring Boot | React.js | Google Cloud |
+| REST APIs | JavaScript | Cloud Run |
+| Microservices | HTML & CSS | Docker |
+| JWT Authentication | Vite | Git & GitHub |
+
+</div>
+
+### 🚀 My Development Approach
+
+```text
+💡 Understand the Requirement
+          ↓
+🏗️ Design the Application
+          ↓
+⚙️ Develop Backend APIs
+          ↓
+🌐 Build Frontend
+          ↓
+🗄️ Connect Database
+          ↓
+🔐 Add Authentication
+          ↓
+🧪 Test APIs
+          ↓
+☁️ Deploy to Cloud
+```
+
+> I focus on building practical applications with clean architecture,
+> reusable components, secure APIs and scalable backend services.
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -332,16 +412,6 @@ Google Cloud
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=akhilsunamudi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akhilsunamudi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
@@ -369,9 +439,13 @@ Google Cloud
 <img src="https://img.shields.io/badge/LinkedIn-Akhil%20Sunamudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:akhilsunamudi.xx03@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/akhilsunamudi">
 <img src="https://img.shields.io/badge/GitHub-Akhil%20Sunamudi-181717?style=for-the-badge&logo=github&logoColor=white"/>
