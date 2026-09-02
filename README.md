@@ -1,96 +1,160 @@
-# Hi there 👋, I'm Akhil Sunamudi
+# 👋 Hi, I'm Akhil Sunamudi
 
-### 💻 Full Stack Java Developer | Java | Spring Boot | Microservices | React
+### 💻 Java Full Stack Developer | Spring Boot | Microservices | React.js
 
-I'm a passionate Full Stack Java Developer focused on building scalable web applications and cloud-ready microservices.
-
-I enjoy working with backend development, REST APIs, databases, frontend technologies, and cloud deployment.
+<p align="left">
+  <a href="https://www.linkedin.com/in/akhil-sunamudi-b417aa426">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/akhilsunamudi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Full Stack Java Developer
-- 🌱 Currently improving my skills in Java, Spring Boot, Microservices and React
-- ☁️ Interested in Cloud & Google Cloud deployment
-- 🔨 Love building real-world applications
-- 🎯 Goal: Become a strong professional Full Stack Developer
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
+- 💻 Aspiring **Java Full Stack Developer**
+- ☕ Working with **Java, Spring Boot & Spring Cloud**
+- ⚙️ Interested in **Microservices & REST API Development**
+- 🌐 Building frontend applications with **React.js**
+- 🗄️ Working with **MySQL**
+- ☁️ Exploring **Google Cloud & Cloud Run**
+- 🔐 Familiar with **JWT Authentication & API Gateway**
+- 📚 Always learning and improving my development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-blue?style=for-the-badge&logo=spring)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+### 💻 Programming Languages
 
-### Frontend
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+</p>
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### ⚙️ Backend & Frameworks
 
-### Cloud
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+- Spring Boot
+- Spring Cloud
+- REST APIs
+- Microservices
+- JWT Authentication
+- API Gateway
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp" />
+</p>
+
+- Google Cloud Run
+- Git & GitHub
+- Docker
+- Postman
+- Maven
 
 ---
 
-## 📌 Featured Projects
+## 🌟 Featured Projects
 
 ### 🛒 HamaraShops.ai
-Enterprise full-stack platform built using Spring Boot Microservices and React.
 
-**Technologies:**
-- Java 21
-- Spring Boot
-- Spring Cloud
-- Microservices
-- React
-- MySQL
-- Docker
-- Google Cloud Run
+**Full-Stack Microservices Platform**
 
-🔗 [View Project](https://github.com/akhilsunamudi/HamaraShops-Ai)
+A full-stack web application developed using React.js and Java Spring Boot with a microservices-based backend architecture.
+
+**Tech Stack:**
+
+`Java 21` `Spring Boot` `Spring Cloud` `React.js` `MySQL` `JWT` `Docker` `Google Cloud Run`
+
+**Key Areas:**
+
+- 🔐 Authentication & JWT
+- ⚙️ Microservices Architecture
+- 🌐 REST API Development
+- 🚪 API Gateway
+- 🗄️ MySQL Database
+- 🔄 Frontend & Backend Integration
+- ☁️ Google Cloud Run Deployment
+
+🔗 **Project Repository:**  
+https://github.com/akhilsunamudi/HamaraShops-Ai
 
 ---
 
 ### 🎓 Blackboard LMS
-Learning & Development Management System with role-based dashboards and training management.
 
-**Technologies:**
-- Java
-- Spring Boot
-- REST APIs
-- MySQL
-- React
-- Vite
+**Learning & Development Management System**
+
+A learning management application designed with role-based access and training management features.
+
+**Tech Stack:**
+
+`Java` `Spring Boot` `REST APIs` `MySQL` `React.js` `Vite`
+
+**Features:**
+
+- 🔐 Authentication
+- 👨‍💼 Role-Based Access
+- 📚 Course Management
+- 📝 Training Requests
+- 📖 Course Assignments
+- 📊 Progress Tracking
+- ⭐ Feedback Management
 
 ---
 
-## 🏗️ Development Areas
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilsunamudi&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsunamudi&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akhilsunamudi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Learning
 
 ```text
-Java Development
-      ↓
-Spring Boot
-      ↓
-REST APIs
-      ↓
-Microservices
-      ↓
-MySQL
-      ↓
-React Frontend
-      ↓
-Docker
-      ↓
-Google Cloud
+Java
+ ├── Spring Boot
+ ├── Spring Cloud
+ ├── Microservices
+ └── REST APIs
+
+Frontend
+ ├── React.js
+ ├── JavaScript
+ └── Modern UI Development
+
+Cloud
+ ├── Google Cloud
+ ├── Cloud Run
+ └── Cloud Deployment
