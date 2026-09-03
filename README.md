@@ -4,7 +4,7 @@
 
 ### 💻 Java Full Stack Developer
 
-**Java | Spring Boot | Microservices | React.js | MySQL | Google Cloud**
+**Java • Spring Boot • Microservices • React.js • MySQL • Docker • Google Cloud**
 
 <br/>
 
@@ -26,351 +26,190 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Akhil Sunamudi**, an aspiring **Java Full Stack Developer**
-currently pursuing my **B.Tech in Computer Science & Engineering**.
+I'm an aspiring **Java Full Stack Developer** currently pursuing
+**B.Tech in Computer Science & Engineering**.
 
-I enjoy developing practical web applications and learning modern
-backend, frontend and cloud technologies.
+I enjoy building practical web applications and working with
+backend, frontend, database, microservices and cloud technologies.
 
-- 🎓 B.Tech in Computer Science & Engineering — Pursuing
-- ☕ Java & Spring Boot Developer
-- ⚙️ Interested in Microservices Architecture
-- 🌐 React.js Frontend Development
-- 🗄️ MySQL Database
+- ☕ Java & Spring Boot
+- ⚙️ REST APIs & Microservices
+- 🌐 React.js
+- 🗄️ MySQL & SQL
 - 🔐 JWT Authentication
-- 🌍 REST API Development
+- 🚪 API Gateway & Service Discovery
+- 🐳 Docker
 - ☁️ Google Cloud & Cloud Run
-- 🚀 Interested in building real-world applications
-- 📚 Always learning and improving my technical skills
+- 🚀 Building real-world applications
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
 
-### ⚙️ Backend Development
+**Java 21 • Core Java • OOP • JavaScript • HTML5 • CSS3**
 
-<p align="left">
+### ⚙️ Backend
+
+<p>
 <img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
-**Java 21 • Core Java • Spring Boot • Spring Cloud • REST APIs •
-Microservices • JWT • API Gateway**
+**Spring Boot • Spring MVC • Spring Cloud • REST APIs • Microservices • JWT • API Gateway**
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
-**React.js • JavaScript • HTML5 • CSS3 • Vite**
+**React.js • JavaScript • Vite • HTML5 • CSS3**
 
-### 🗄️ Database
+### 🗄️ Database & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman,gcp" />
 </p>
 
-**MySQL • SQL • CRUD Operations • Database Management**
-
-### ☁️ Cloud & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,postman" />
-</p>
-
-**Google Cloud • Cloud Run • Docker • Git • GitHub • Postman • Maven**
+**MySQL • SQL • Git • GitHub • Maven • Postman • Docker • Google Cloud • Cloud Run**
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🛒 HamaraShops.ai
+### 🛒 HamaraShops.ai
 
-### Full-Stack Microservices Application
+**Full-Stack Microservices Platform**
 
-**HamaraShops.ai** is a full-stack web application developed using
-**React.js** on the frontend and **Java Spring Boot** on the backend.
+A full-stack web application built using **React.js** and **Java Spring Boot**
+with a microservices-based backend architecture.
 
-The application follows a **microservices-based architecture** with
-REST APIs, authentication, API Gateway and database integration.
+**Tech Stack**
 
-### 🔧 Technologies
+`Java 21` `Spring Boot` `Spring Cloud` `React.js`
+`MySQL` `JWT` `API Gateway` `Docker` `Google Cloud Run`
 
-`Java 21` `Spring Boot` `Spring Cloud` `Microservices`
-`React.js` `MySQL` `JWT` `API Gateway` `Docker` `Google Cloud Run`
+**Key Features**
 
-### ✨ Key Areas
+- 🔐 JWT-based authentication
+- ⚙️ Microservices architecture
+- 🚪 API Gateway & service discovery
+- 🌐 REST API integration
+- 🗄️ MySQL database
+- 🐳 Docker containerization
+- ☁️ Google Cloud Run deployment
 
-- 🔐 JWT-based Authentication
-- ⚙️ Microservices Architecture
-- 🌐 REST API Development
-- 🚪 API Gateway
-- 🗄️ MySQL Database
-- 🔄 Frontend & Backend Integration
-- 🐳 Docker
-- 📦 Git & GitHub
-- ☁️ Google Cloud Run Deployment
-
-### 🔗 Project Repository
+<br/>
 
 <a href="https://github.com/akhilsunamudi/HamaraShops-Ai">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-## 🎓 Blackboard LMS
+### 🎓 Blackboard LMS
 
-### Learning & Development Management System
+**Learning & Development Management System**
 
-A web-based **Learning & Development Management System** developed
-using Java Spring Boot, React.js and MySQL.
+A web-based management system developed using **Java Spring Boot,
+React.js and MySQL**.
 
-### 🔧 Technologies
+**Tech Stack**
 
-`Java` `Spring Boot` `REST APIs` `MySQL` `React.js` `Vite`
+`Java` `Spring Boot` `REST APIs` `React.js` `MySQL` `Vite`
 
-### ✨ Key Features
+**Key Features**
 
 - 🔐 Authentication
-- 👨‍💼 Role-Based Access
-- 📚 Course Management
-- 📝 Training Requests
-- 📖 Course Assignment
-- 📊 Progress Tracking
-- ⭐ Feedback Management
-- 🔄 REST API Integration
-- 🗄️ MySQL Database
+- 👨‍💼 Role-based access
+- 📚 Course management
+- 📝 Training request management
+- 📖 Course assignment
+- 📊 Progress tracking
+- ⭐ Feedback management
 
 ---
 
-# 📚 Education
+## 🎓 Education
 
-### 🎓 B.Tech — Computer Science & Engineering
+### B.Tech — Computer Science & Engineering
 
 **VITS Engineering College, Khurda**
 
-Currently Pursuing — **6th Semester**
+Currently Pursuing • **6th Semester**  
+Latest SGPA: **7.82**
 
-**Latest SGPA: 7.82**
-
----
-
-### 🎓 Diploma — Electrical Engineering
+### Diploma — Electrical Engineering
 
 **Utkal Gourav Madhusudan Institute of Technology, Rayagada**
 
-SCTE & VT, Odisha
-
-**2023 | 64.13%**
+**2023 • 64.13%**
 
 ---
 
-### 🎓 Higher Secondary — Science
+## 📜 Training & Certifications
 
-**CHSE Odisha**
+- ☕ **Java Full Stack Development**  
+  Java • Spring Boot • REST APIs • MySQL • React.js
 
-**2020 | 43.66%**
+- ⚙️ **Programmable Logic Control (PLC)**  
+  Central Tool Room & Training Centre, Bhubaneswar
 
----
+- ⚡ **Sr. Technician — Machine Maintenance & Automation**  
+  MSME Technology Centre / CTTC Bhubaneswar  
+  **85.3% • Grade A+**
 
-### 🎓 Matriculation
+- 🔌 **OPTCL 132/33 KV Grid Sub-Station Internship**  
+  Operation & Maintenance
 
-**BSE Odisha**
-
-**2018 | 62.16%**
-
----
-
-# 📜 Training & Certifications
-
-## ☕ Java Full Stack Development
-
-Training covering:
-
-**Java • Spring Boot • REST APIs • MySQL • React.js**
+- 🧩 **SolidWorks Training**  
+  Central Tool Room & Training Centre, Bhubaneswar
 
 ---
 
-## ⚙️ Programmable Logic Control — PLC
-
-**Central Tool Room & Training Centre, Bhubaneswar**
-
-Ministry of MSME, Government of India
-
-**2022**
-
----
-
-## ⚡ 132/33 KV Grid Sub-Station Internship
-
-**Odisha Power Transmission Corporation Limited (OPTCL)**
-
-132/33 KV Grid Sub-Station, Rayagada
-
-**Internship Period: 25/08/2022 – 25/09/2022**
-
-Field:
-
-**Operation & Maintenance**
-
----
-
-## 🤖 Sr. Technician — Machine Maintenance & Automation
-
-**MSME Technology Centre, Central Tool Room & Training Centre, Bhubaneswar**
-
-Course:
-
-**Sr. Technician Machine Maintenance and Automation**
-
-### Areas Covered
-
-- Basic Machine Operation
-- Maintenance of Hydraulics & Pneumatics Components
-- Electrical Machine Maintenance Activities
-- Basics of Industrial Automation
-- Electrical Circuit Diagram using CAD Software
-- Employability Skills
-
-**Duration: 600 Hours**
-
-**Result: 85.3% | Grade: A+**
-
----
-
-## 🧩 SolidWorks Training
-
-**Central Tool Room & Training Centre, Bhubaneswar**
-
-Entrepreneur Skill Development Programme sponsored by
-**Ministry of MSME**
-
-### Training Areas
-
-- Part Modeling
-- Sketcher & Constraining
-- Surface Modeling
-- Assembly Design
-- Motion Study
-- Drafting & Detailing
-- Sheet Metal Design
-
-**Course Period: 18/08/2025 – 17/09/2025**
-
----
-
-## 📐 AutoCAD
-
-**2D & 3D Modelling**
-
----
-
-## 🖥️ MS Office
-
-**Microsoft Word • Excel • PowerPoint**
-
----
-
-# 🎯 Currently Learning
-
-### ☕ Backend
-
-`Java` → `Spring Boot` → `REST APIs` → `Microservices`
-
-### 🌐 Frontend
-
-`React.js` → `JavaScript` → `API Integration`
-
-### ☁️ Cloud
-
-`Docker` → `Google Cloud` → `Cloud Run`
-
----
-
-# 💼 What I Build
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 💻 Backend | 🌐 Frontend | ☁️ Cloud |
-|:---:|:---:|:---:|
-| Java & Spring Boot | React.js | Google Cloud |
-| REST APIs | JavaScript | Cloud Run |
-| Microservices | HTML & CSS | Docker |
-| JWT Authentication | Vite | Git & GitHub |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akhilsunamudi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsunamudi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-### 🚀 My Development Approach
+---
+
+## 🎯 Currently Focused On
 
 ```text
-💡 Understand the Requirement
-          ↓
-🏗️ Design the Application
-          ↓
-⚙️ Develop Backend APIs
-          ↓
-🌐 Build Frontend
-          ↓
-🗄️ Connect Database
-          ↓
-🔐 Add Authentication
-          ↓
-🧪 Test APIs
-          ↓
-☁️ Deploy to Cloud
-```
-
-> I focus on building practical applications with clean architecture,
-> reusable components, secure APIs and scalable backend services.
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+Microservices
+  ↓
+React.js
+  ↓
+MySQL
+  ↓
+Docker
+  ↓
+Google Cloud
 
 ---
 
-# 📊 GitHub Statistics
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhilsunamudi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsunamudi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=akhilsunamudi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilsunamudi&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### 💬 Let's connect, collaborate and build something useful together.
+💬 Let's connect, learn and build something useful together.
 
 <br/>
 
@@ -390,14 +229,8 @@ Entrepreneur Skill Development Programme sponsored by
 <img src="https://img.shields.io/badge/GitHub-Akhil%20Sunamudi-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-### 💻 Code • Learn • Build • Grow 🚀
+⭐ Thanks for visiting my profile!
 
 </div>
