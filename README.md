@@ -4,7 +4,7 @@
 
 ### 💻 Java Full Stack Developer
 
-**Java • Spring Boot • Microservices • React.js • MySQL • Docker • Google Cloud**
+**Java • Spring Boot • Microservices • React.js • MySQL • Docker**
 
 <br/>
 
@@ -26,88 +26,54 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **Java Full Stack Developer** currently pursuing
-**B.Tech in Computer Science & Engineering**.
-
-I enjoy building practical web applications and working with
-backend, frontend, database, microservices and cloud technologies.
+I'm a **Java Full Stack Developer** and B.Tech Computer Science & Engineering student
+interested in building scalable and practical web applications.
 
 - ☕ Java & Spring Boot
 - ⚙️ REST APIs & Microservices
 - 🌐 React.js
 - 🗄️ MySQL & SQL
 - 🔐 JWT Authentication
-- 🚪 API Gateway & Service Discovery
 - 🐳 Docker
-- ☁️ Google Cloud & Cloud Run
-- 🚀 Building real-world applications
+- ☁️ Google Cloud
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### Backend
+`Java` `Spring Boot` `Spring Cloud` `REST APIs` `Microservices` `JWT`
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-</p>
+### Frontend
+`React.js` `JavaScript` `HTML5` `CSS3` `Vite`
 
-**Java 21 • Core Java • OOP • JavaScript • HTML5 • CSS3**
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
-
-**Spring Boot • Spring MVC • Spring Cloud • REST APIs • Microservices • JWT • API Gateway**
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite" />
-</p>
-
-**React.js • JavaScript • Vite • HTML5 • CSS3**
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman,gcp" />
-</p>
-
-**MySQL • SQL • Git • GitHub • Maven • Postman • Docker • Google Cloud • Cloud Run**
+### Database & Tools
+`MySQL` `SQL` `Git` `GitHub` `Maven` `Postman` `Docker` `Google Cloud`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🛒 HamaraShops.ai
 
-**Full-Stack Microservices Platform**
+**Full-Stack Microservices E-Commerce Platform**
 
-A full-stack web application built using **React.js** and **Java Spring Boot**
-with a microservices-based backend architecture.
+Built using React.js and Java Spring Boot with a microservices-based backend.
 
-**Tech Stack**
+**Tech:**  
+`Java 21` `Spring Boot` `Spring Cloud` `React.js` `MySQL` `JWT` `Docker` `Google Cloud Run`
 
-`Java 21` `Spring Boot` `Spring Cloud` `React.js`
-`MySQL` `JWT` `API Gateway` `Docker` `Google Cloud Run`
-
-**Key Features**
-
-- 🔐 JWT-based authentication
-- ⚙️ Microservices architecture
-- 🚪 API Gateway & service discovery
-- 🌐 REST API integration
-- 🗄️ MySQL database
-- 🐳 Docker containerization
-- ☁️ Google Cloud Run deployment
-
-<br/>
+**Features:**
+- 🔐 JWT Authentication
+- ⚙️ Microservices Architecture
+- 🚪 API Gateway & Service Discovery
+- 🌐 REST API Integration
+- 🗄️ MySQL Database
+- 🐳 Docker Deployment
+- ☁️ Google Cloud Run
 
 <a href="https://github.com/akhilsunamudi/HamaraShops-Ai">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
@@ -116,92 +82,41 @@ with a microservices-based backend architecture.
 
 **Learning & Development Management System**
 
-A web-based management system developed using **Java Spring Boot,
-React.js and MySQL**.
+A web-based application for managing courses, training and learning activities.
 
-**Tech Stack**
-
+**Tech:**  
 `Java` `Spring Boot` `REST APIs` `React.js` `MySQL` `Vite`
 
-**Key Features**
-
+**Features:**
 - 🔐 Authentication
-- 👨‍💼 Role-based access
-- 📚 Course management
-- 📝 Training request management
-- 📖 Course assignment
-- 📊 Progress tracking
-- ⭐ Feedback management
+- 👨‍💼 Role-Based Access
+- 📚 Course Management
+- 📝 Training Requests
+- 📖 Course Assignment
+- 📊 Progress Tracking
+- ⭐ Feedback Management
 
 ---
 
 ## 🎓 Education
 
-### B.Tech — Computer Science & Engineering
+**B.Tech — Computer Science & Engineering**  
+VITS Engineering College, Khurda  
+Currently Pursuing • 6th Semester • **SGPA: 7.82**
 
-**VITS Engineering College, Khurda**
-
-Currently Pursuing • **6th Semester**  
-Latest SGPA: **7.82**
-
-### Diploma — Electrical Engineering
-
-**Utkal Gourav Madhusudan Institute of Technology, Rayagada**
-
-**2023 • 64.13%**
+**Diploma — Electrical Engineering**  
+Utkal Gourav Madhusudan Institute of Technology, Rayagada  
+2023 • **64.13%**
 
 ---
 
-## 📜 Training & Certifications
+## 📜 Certifications & Training
 
-- ☕ **Java Full Stack Development**  
-  Java • Spring Boot • REST APIs • MySQL • React.js
-
-- ⚙️ **Programmable Logic Control (PLC)**  
-  Central Tool Room & Training Centre, Bhubaneswar
-
-- ⚡ **Sr. Technician — Machine Maintenance & Automation**  
-  MSME Technology Centre / CTTC Bhubaneswar  
-  **85.3% • Grade A+**
-
-- 🔌 **OPTCL 132/33 KV Grid Sub-Station Internship**  
-  Operation & Maintenance
-
-- 🧩 **SolidWorks Training**  
-  Central Tool Room & Training Centre, Bhubaneswar
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akhilsunamudi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsunamudi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Currently Focused On
-
-```text
-Java
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-Microservices
-  ↓
-React.js
-  ↓
-MySQL
-  ↓
-Docker
-  ↓
-Google Cloud
+- ☕ Java Full Stack Development
+- ⚙️ Programmable Logic Control (PLC)
+- ⚡ Sr. Technician — Machine Maintenance & Automation — **85.3% (A+)**
+- 🔌 OPTCL Internship — 132/33 KV Grid Sub-Station
+- 🧩 SolidWorks Training
 
 ---
 
@@ -231,6 +146,6 @@ Google Cloud
 
 <br/><br/>
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </div>
